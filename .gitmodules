@@ -10,3 +10,6 @@
 [submodule "springboot-produts-service"]
 	path = springboot-produts-service
 	url = https://github.com/jpchacon/springboot-produts-service.git
+[submodule "springboot-items-service"]
+	path = springboot-items-service
+	url = https://github.com/jpchacon/springboot-items-service.git
