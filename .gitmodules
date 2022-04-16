@@ -16,3 +16,6 @@
 [submodule "springboot-config-server"]
 	path = springboot-config-server
 	url = https://github.com/jpchacon/springboot-config-server.git
+[submodule "springcloud-configurations"]
+	path = springcloud-configurations
+	url = https://github.com/jpchacon/springcloud-configurations.git
