@@ -4,3 +4,6 @@
 [submodule "springboot-gateway-server"]
 	path = springboot-gateway-server
 	url = https://github.com/jpchacon/springboot-gateway-server.git
+[submodule "springboot-eureka-server"]
+	path = springboot-eureka-server
+	url = https://github.com/jpchacon/springboot-eureka-server.git
