@@ -7,3 +7,6 @@
 [submodule "springboot-eureka-server"]
 	path = springboot-eureka-server
 	url = https://github.com/jpchacon/springboot-eureka-server.git
+[submodule "springboot-produts-service"]
+	path = springboot-produts-service
+	url = https://github.com/jpchacon/springboot-produts-service.git
