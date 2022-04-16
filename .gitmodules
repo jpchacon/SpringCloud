@@ -13,3 +13,6 @@
 [submodule "springboot-items-service"]
 	path = springboot-items-service
 	url = https://github.com/jpchacon/springboot-items-service.git
+[submodule "springboot-config-server"]
+	path = springboot-config-server
+	url = https://github.com/jpchacon/springboot-config-server.git
