@@ -1,3 +1,6 @@
 [submodule "springboot-zuul-server"]
 	path = springboot-zuul-server
 	url = https://github.com/jpchacon/springboot-zuul-server.git
+[submodule "springboot-gateway-server"]
+	path = springboot-gateway-server
+	url = https://github.com/jpchacon/springboot-gateway-server.git
